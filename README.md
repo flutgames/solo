@@ -1,0 +1,4 @@
+solo
+====
+
+Solo Oyunu
